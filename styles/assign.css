@@ -1,0 +1,44 @@
+/* shared font */
+.inter-font {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.raleway-font{
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+
+
+
+/* navbar */
+.font-h2{
+  color:#4E47FF ;
+  font-weight: 700;
+  font-size:34px ;
+  margin-top:51px ;
+  margin-left:150px ;
+}
+.link-a{
+  background-color: #4E47FF;
+  color:#FFFFFF ;
+  text-decoration: none;
+  margin-top:50px ;
+  margin-right:150px ;
+  
+}
+.list-style{
+  list-style:none ;
+  padding:12px 36px ;
+}
+.nav-content{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
