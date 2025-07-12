@@ -70,3 +70,30 @@
 
 }
 
+     /* main section 1 */
+     .title-h3{
+      font-weight:700 ;
+      font-size:42px ;
+      color:#252432 ;
+     }
+
+     .subtitle{
+      font-weight: 300;
+      font-size:24px ;
+      color: #252432;
+     }
+     .button-style{
+      font-family:700 ;
+      font-style:16px ;
+      color:#FFFFFF ;
+      background-color: #4E47FF;
+      padding:12px 36px ;
+      border-radius:5px ;
+     }
+     .full-section{
+      display: flex;
+      margin-left:141px ;
+      margin-right:159px ;
+      margin-top:80px ;
+      margin-bottom:122px ;
+     }
