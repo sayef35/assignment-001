@@ -13,7 +13,12 @@
   font-style: normal;
 }
 
+/* header bg */
+.header-bg{
+  background-image:url(../Assets/Hero-bg.png) ;
 
+  
+}
 
 
 
@@ -31,14 +36,37 @@
   text-decoration: none;
   margin-top:50px ;
   margin-right:150px ;
-  
+  border-radius:5px ;
+
 }
 .list-style{
   list-style:none ;
   padding:12px 36px ;
+  
 }
 .nav-content{
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
+
+.title-h1{
+  font-weight: 700;
+  font-size:50px ;
+  color:#252432 ;
+
+}
+
+
+
+.btn-description{
+  background-color: #4E47FF;
+  color: #FFFFFF;
+  padding:12px 36px;
+  border-radius:10px ;
+  align-items: center;
+  font-weight:700 ;
+  font-size:16px ;
+
+}
+
